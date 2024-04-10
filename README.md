@@ -8,6 +8,7 @@ Tugas ini saya buat dengan batasan:
 2. Signin page belum bisa melakukan forgot password hingga sampai project ini saya push pertama kali(masih ada kemungkinan akan dikembangkan)
 
 Di bawah ini merupakan bukti screenshoot hasil dari project yang saya kerjakan. 
+
 ![Welcome page](https://github.com/vaniyaapriann/Pemrograman-Mobile-Flutter/assets/115131039/e9278c0c-c0a7-4aa3-a913-ba3466eaecd2)
 
 Welcome page yang berisikan logo, text welcome, dan pilihan untuk melakukan sign in atau register
